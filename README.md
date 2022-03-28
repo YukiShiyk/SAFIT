@@ -1,16 +1,16 @@
 # SAFIT
 
 ## MonoDTR
-Code for ICRA 2022 paper "SAFIT: Segmentation-Aware Scene Flow with Improved Transformer "
+Code for ICRA 2022 paper "SAFIT: Segmentation-Aware Scene Flow with Improved Transformer"
 
 The code is coming soon.
 
 ## Citation
 ```
-@inproceedings{huang2022monodtr,
-   author = {Kuan-Chih Huang and Tsung-Han Wu and Hung-Ting Su and Winston H. Hsu},
-   title = {MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer},
-   booktitle = {CVPR},
+@inproceedings{shi2022safit,
+   author = {Yukang Shi and Kaisheng Ma},
+   title = {SAFIT: Segmentation-Aware Scene Flow with Improved Transformerr},
+   booktitle = {ICRA},
    year = {2022}    
 }
 ```
