@@ -1,6 +1,5 @@
-# SAFIT
+## SAFIT
 
-## MonoDTR
 Code for ICRA 2022 paper "SAFIT: Segmentation-Aware Scene Flow with Improved Transformer"
 
 The code is coming soon.
